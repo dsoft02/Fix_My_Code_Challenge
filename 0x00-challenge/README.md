@@ -16,3 +16,7 @@ Python, Javascript, Ruby and C.
 * **2. Sort**
   * [2-sort.rb](./2-sort.rb): Ruby implementation of a simple sorting algorithm.
   * [Source code](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb)
+
+* **3. User password**
+  * [3-user.py](./3-user.py ): Python implementation of a User class.
+  * [Source code](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/3-user.py)
